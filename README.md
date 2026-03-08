@@ -1,68 +1,122 @@
-# Olá, eu sou o Matheus 👋
 
-🎓 Estudante do SENAI - ADS (Ánalise e Desenvolvimento de Sistemas)
-
-💻 Desenvolvedor em formação apaixonado por backend
-
-🥋 Atleta e entusiasta de filosofia
-
-🚀 Construindo projetos que unem tecnologia, disciplina e propósito
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF6B00&size=40&center=true&vCenter=true&width=750&duration=4000&lines=Matheus+Souza+Borges+da+Silva;Backend+Developer+in+Progress;Code+•+Discipline+•+Evolution" />
+</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+<div align="center">
 
-Sou um estudante brasileiro que busca crescer através da tecnologia. Desde minha infância, sonhava em trabalhar com a tecnologia, e sempre me mantive avançando. E agora, esse sonho está mais perto do que nunca.
-Acredito que curiosidade, disciplina e aprendizado constante são a base para construir coisas incríveis. E posso dizer que eu tenho todos de sobra.
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB347?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-FF8C42?style=for-the-badge\&logo=node.js\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF6B00?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-FFA552?style=for-the-badge\&logo=css3\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FC7A1E?style=for-the-badge\&logo=git\&logoColor=white)
 
-Além da programação, o esporte tem um papel importante na minha vida, e essas experiências moldam minha mentalidade: foco, estratégia, resiliência e evolução constante.
+</div>
 
-Meu objetivo é me tornar um desenvolvedor, aprender continuamente e construir uma carreira sólida na área de tecnologia. Quero revolucionar o mercado, poder acelerar, otimizar sistemas e propor soluções.
+<br>
 
-Quero deixar minha marca, aonde quer que eu passe. Mas principalmente, mudar vidas com aquilo que eu sou melhor. 
+<div align="center">
 
----
+🎓 **Estudante do SENAI — ADS (Análise e Desenvolvimento de Sistemas)**
 
-## 🚀 Tecnologias e Ferramentas
+💻 **Desenvolvedor em formação apaixonado por backend**
 
-* JavaScript
-* Node.js
-* HTML
-* CSS
-* Git & GitHub
-* ServiceNow (em aprendizado)
+🥋 **Atleta e entusiasta de filosofia**
 
----
+🚀 **Construindo projetos que unem tecnologia, disciplina e propósito**
 
-## 📌 Projetos em destaque
-Em construção...
+</div>
 
 ---
 
-## 📚 Atualmente estudando
-
-* Backend com Node.js
-* Desenvolvimento de APIs
-* Plataforma ServiceNow
-* Estrutura de dados e lógica de programação
-* Banco de dados e levantamento de requesitos
+<div align="center">
   
----
+# ☀️ Sobre mim
 
-## 📈 Objetivos
+Sou um estudante brasileiro que busca crescer através da tecnologia.
+Desde a infância, sempre sonhei em trabalhar com tecnologia — e hoje esse sonho está cada vez mais próximo.
 
-* Evoluir como desenvolvedor backend
-* Construir projetos úteis e bem estruturados
-* Contribuir para projetos open source
-* Desenvolver soluções que conectem tecnologia e vida real
+Busco evoluir constantemente como desenvolvedor, aprender novas ferramentas e construir uma carreira sólida na área. Quero criar soluções que acelerem processos, otimizem sistemas e resolvam problemas reais.
 
----
-
-## 📫 Contato
-
-LinkedIn: https://www.linkedin.com/in/matheus-s-a77b033b0/
-GitHub: https://github.com/MatheusDev09
+Meu objetivo é deixar minha marca por onde eu passar — principalmente através de projetos que impactem pessoas de forma positiva.
 
 ---
 
-⭐ *O que importa não é quanto tempo você tem. É como você usa.*
+# 🚀 Tecnologias e Ferramentas
+
+ **JavaScript**
+ 
+ **Node.js**
+ 
+ **HTML**
+ 
+ **CSS**
+ 
+ **Git & GitHub**
+ 
+ **ServiceNow** *(em aprendizado)*
+
+---
+
+# 📌 Projetos em destaque
+
+🚧 **Em construção...**
+
+Em breve, projetos envolvendo:
+
+ APIs backend
+ 
+ automação de processos
+ 
+ aplicações voltadas para organização e produtividade
+
+---
+
+# 📚 Atualmente estudando
+
+Backend com **Node.js**
+
+  Desenvolvimento de **APIs**
+  
+  Plataforma **ServiceNow**
+  
+ **Estrutura de dados** e lógica de programação
+ 
+ **Banco de dados**
+ 
+ Levantamento de **requisitos de sistemas**
+
+---
+
+# 📈 Objetivos
+
+ Evoluir como **desenvolvedor backend**
+ 
+ Construir projetos úteis e bem estruturados
+ 
+ Contribuir para **projetos open source**
+ 
+ Criar soluções que conectem **tecnologia e vida real**
+
+---
+
+# 📫 Contato
+
+🔗 **LinkedIn**
+https://www.linkedin.com/in/matheus-s-a77b033b0/
+
+
+
+💻 **GitHub**
+https://github.com/MatheusDev09
+</div>
+
+---
+
+<div align="center">
+
+☀️ *O que importa não é quanto tempo você tem — é como você usa.*
+
+</div>
