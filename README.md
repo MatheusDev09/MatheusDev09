@@ -44,22 +44,6 @@ Meu objetivo é deixar minha marca por onde eu passar — principalmente atravé
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
-
- **JavaScript**
- 
- **Node.js**
- 
- **HTML**
- 
- **CSS**
- 
- **Git & GitHub**
- 
- **ServiceNow** *(em aprendizado)*
-
----
-
 # 📌 Projetos em destaque
 
 🚧 **Em construção...**
@@ -76,7 +60,7 @@ Em breve, projetos envolvendo:
 
 # 📚 Atualmente estudando
 
-Backend com **Node.js**
+  Backend com **Node.js**
 
   Desenvolvimento de **APIs**
   
@@ -86,7 +70,7 @@ Backend com **Node.js**
  
  **Banco de dados**
  
- Levantamento de **requisitos de sistemas**
+  Levantamento de **requisitos de sistemas**
 
 ---
 
