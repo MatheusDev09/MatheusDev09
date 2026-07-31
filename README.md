@@ -70,16 +70,18 @@ Estou em constante evolução, sempre buscando aprender novas tecnologias, desen
 
 <td width="50%">
 
-## 🌐 Pokémon Journey
+## 🌐 Guru's City Interwined
 
-Projeto focado em trabalhar minhas habilidades de estilização e desenvolvimento de HTML na epóca. Sujeito a atualizações.
+Projeto de site governamental com o âmbito social, no objetivo de simular um ambiente de prestador de serviços para uma cidade.
+Com seções de economia, social, lazer e etc. Com sistema de login. Meu primeiro grande projeto em meu curso.
 
 **Tecnologias**
 
-- HTML
-- CSS 
+- PHP
+- CSS
+- Javascript
 
-🔗 **[Pokémon Journey](https://github.com/MatheusDev09/pokemon-journey)**
+[![Repositório](https://img.shields.io/badge/Repositório-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/GuruCityInterwined_G.C.I)
 
 </td>
 
@@ -93,8 +95,8 @@ Para se ensinar, deve se dominar esse tema. Ensinar para meus amigos é a minha 
 **Tecnologias**
 
 - JavaScript
-
-🔗 **[Introdução ao Javascript](https://github.com/MatheusDev09/IntroducaoJS-DOM)**
+  
+[![Repositório](https://img.shields.io/badge/Repositório-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/IntroducaoJS-DOM)
 
 </td>
 
@@ -115,7 +117,7 @@ Sistema de gerenciamento escolar com múltiplos níveis de acesso para Administr
 - HTML
 - CSS
 
-🔗 **[Guru's Learn](https://github.com/MatheusDev09/gurus-learn-bs-test)**
+[![Repositório](https://img.shields.io/badge/Repositório-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/GuruLearn)
 
 </td>
 
@@ -131,7 +133,7 @@ Meu repositório totalmente focado em documentar desafios, desenvolvimentos e te
 - Express
 - MySQL
 
-🔗 **[Estudos e Campo de Testes](https://github.com/MatheusDev09/Estudo-Javascript)**
+[![Repositório](https://img.shields.io/badge/Repositório-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/EstudoJavascript)
 
 </td>
 
@@ -141,27 +143,29 @@ Meu repositório totalmente focado em documentar desafios, desenvolvimentos e te
 
 ---
 
-# 📖 Atualmente Estudando
+# 📖 Atualmente Explorando
 
-- 🚀 Node.js
-- 🌐 Desenvolvimento de APIs REST
-- 🗄️ MySQL
-- 📊 Estrutura de Dados
-- ⚡ Lógica de Programação
-- 🔧 Git e GitHub
-- ☁️ ServiceNow
-- 📋 Levantamento de Requisitos de Sistemas
+- 🏗️ Arquitetura de aplicações Backend com Node.js
+- 🌐 Desenvolvimento de APIs REST escaláveis
+- 🗄️ Modelagem de bancos de dados relacionais e NoSQL
+- 🔐 Sistemas de autenticação e controle de acesso
+- 🎯 React para construção de interfaces modernas
+- ☁️ Desenvolvimento de soluções na plataforma ServiceNow
+- 📚 Estruturas de dados, organização de código e boas práticas de desenvolvimento
+
+> "Mais importante do que escrever código é projetar soluções que façam sentido."
 
 ---
 
-# 🎯 Objetivos
+# 🎯 Minha Visão
 
-- 💼 Tornar-me Desenvolvedor Backend.
-- 🚀 Construir aplicações escaláveis e de alto desempenho.
-- 🤝 Contribuir para projetos Open Source.
-- 📚 Aprender continuamente novas tecnologias.
-- 💡 Desenvolver soluções que gerem impacto positivo.
-- 🌎 Construir uma carreira sólida na área de tecnologia.
+Acredito que tecnologia deve existir para resolver problemas reais, simplificar processos e permitir que as pessoas utilizem melhor o recurso mais valioso que possuem: **o tempo**.
+
+Meu objetivo é me tornar um desenvolvedor capaz de projetar soluções robustas antes mesmo de começar a programá-las. Gosto de entender o problema por completo, pensar na arquitetura, analisar diferentes possibilidades e somente então transformar a ideia em código.
+
+Tenho interesse especial por sistemas voltados à **educação**, **segurança** e **automação**, áreas onde acredito que a tecnologia pode gerar impacto positivo.
+
+Busco evoluir continuamente através da prática, da experimentação e do aprendizado autodidata, sempre encarando cada projeto como uma oportunidade para aprender algo novo e entregar uma solução melhor do que a anterior.
 
 ---
 
