@@ -1,68 +1,112 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF6B00&size=40&center=true&vCenter=true&width=750&duration=4000&lines=Matheus+Souza+Borges+da+Silva;Full+Stack+Developer;Code+•+Discipline+•+Evolution" />
-</p>
+<div align="center">
 
----
+![alt text](https://github.com/user-attachments/assets/15e28a19-2af6-4547-9383-aaa1c23c71d2)
+  
+# `C:\MathDev> message`
 
-# 👨🏻‍💻 Matheus Souza Borges da Silva
+```powershell
+"It's not how much time you have, it's how you use it.
+- Ekko, the boy who shattered time."
+```
 
-**`Desenvolvedor Full Stack | Foco em Backend`**
+# `C:\MathDev> whoami`
 
-Sou **Matheus Souza Borges da Silva**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia desde a infância.
+```powershell
+Name: Matheus Souza Borges da Silva
+Role: Backend Developer
+Education: Analysis and Development of Systems (ADS)
+Focus: Node.js • APIs • Databases • Software Architecture
+Status: Learning and Improving
+```
 
-Sempre fui movido pela curiosidade de entender como as coisas funcionam, identificar falhas e encontrar soluções eficientes. Essa característica despertou meu interesse pela programação e continua guiando minha evolução como desenvolvedor.
-
-Meu foco é desenvolver soluções que simplifiquem processos, automatizem tarefas e gerem impacto real. Acredito que a tecnologia existe para resolver problemas e tornar o tempo das pessoas mais valioso.
-
-Atualmente concentro meus estudos e projetos em **JavaScript**, **Node.js**, **MySQL** e desenvolvimento de **APIs REST**, sem deixar de explorar o desenvolvimento web utilizando **HTML**, **CSS**, **Bootstrap** e **Tailwind CSS**.
-
-Estou em constante evolução, sempre buscando aprender novas tecnologias, desenvolver projetos cada vez mais completos e construir uma carreira sólida na área de desenvolvimento de software.
-
-<p align="left">
+<p>
     <a href="https://github.com/MatheusDev09?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/MatheusDev09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+        <img src="https://custom-icon-badges.demolab.com/github/followers/MatheusDev09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
     <a href="https://github.com/MatheusDev09?tab=repositories">
-        <img
-            alt="Projetos"
-            title="Meus Projetos"
-            src="https://custom-icon-badges.demolab.com/badge/Projetos-GitHub-FF6B00?style=for-the-badge&logo=github&logoColor=white"
-        />
+        <img src="https://custom-icon-badges.demolab.com/badge/Repositories-GitHub-FF6B00?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/matheus-s-a77b033b0/">
-        <img
-            alt="LinkedIn"
-            title="Meu LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 
+</div>
+
 ---
 
-# 🚀 Tecnologias
+# `C:\MathDev> about`
+
+```powershell
+> Straight from the low life, to the top floor. That's what I'm here for."
+
+> Passionate about solving problems through software.
+
+> I enjoy understanding the problem before writing code,
+  designing solutions that are scalable, organized and maintainable.
+
+> Areas of interest
+
+  • Backend Development
+  • Software Architecture
+  • Education Systems
+  • Security
+  • Process Automation
+
+> Philosophy
+
+  "Think first, design well, code last."
+```
+
+---
+
+# `C:\MathDev> stack`
+
+```yaml
+Languages:
+  JavaScript
+  PHP
+
+Backend:
+  Node.js
+  Express
+
+Frontend:
+  HTML
+  CSS
+  React
+  Bootstrap
+  Tailwind CSS
+
+Databases:
+  MySQL
+  MongoDB
+
+Tools:
+  Git
+  GitHub
+  Figma
+  ServiceNow
+```
 
 <p align="left">
 
-<img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img alt="TailwindCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-<img alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img alt="JavaScript" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="Node.js" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img alt="React" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img alt="MySQL" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="MongoDB" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img alt="HTML" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="Git" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="Bootstrap" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img alt="Tailwind" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 
 </p>
 
 ---
 
-# 🚀 Projetos em Destaque
+# `C:\MathDev\Projects> dir`
 
 <table>
 
@@ -70,33 +114,25 @@ Estou em constante evolução, sempre buscando aprender novas tecnologias, desen
 
 <td width="50%">
 
-## 🌐 Guru's City Interwined
+### Guru's Learn
 
-Projeto de site governamental com o âmbito social, no objetivo de simular um ambiente de prestador de serviços para uma cidade.
-Com seções de economia, social, lazer e etc. Com sistema de login. Meu primeiro grande projeto em meu curso.
+Educational platform with authentication, access control and database management.
 
-**Tecnologias**
+**Node.js • MySQL**
 
-- PHP
-- CSS
-- Javascript
-
-[![Repositório](https://img.shields.io/badge/Repositório-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/GuruCityInterwined_G.C.I)
+[![Repository](https://img.shields.io/badge/Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/GuruLearn)
 
 </td>
 
 <td width="50%">
 
-## 🔐 Projeto de introdução a JS
+### Guru City Intertwined
 
-Sistema criado com teor educacional, afim de testar meus próprios conhecimentos sobre as funcionalidades de JavaScript.
-Para se ensinar, deve se dominar esse tema. Ensinar para meus amigos é a minha maior prova que sei sobre o que faço.
+Public service portal developed as one of my first complete academic projects.
 
-**Tecnologias**
+**PHP • JavaScript**
 
-- JavaScript
-  
-[![Repositório](https://img.shields.io/badge/Repositório-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/IntroducaoJS-DOM)
+[![Repository](https://img.shields.io/badge/Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/GuruCityInterwined_G.C.I)
 
 </td>
 
@@ -106,34 +142,25 @@ Para se ensinar, deve se dominar esse tema. Ensinar para meus amigos é a minha 
 
 <td width="50%">
 
-## 🎓 Portal Educacional Guru's Learn.
+### Introdução ao JavaScript
 
-Sistema de gerenciamento escolar com múltiplos níveis de acesso para Administradores, Professores e Alunos.
+Repository created to reinforce JavaScript fundamentals and DOM manipulation.
 
-**Tecnologias**
+**JavaScript**
 
-- Node.js
-- MySQL
-- HTML
-- CSS
-
-[![Repositório](https://img.shields.io/badge/Repositório-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/GuruLearn)
+[![Repository](https://img.shields.io/badge/Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/IntroducaoJS-DOM)
 
 </td>
 
 <td width="50%">
 
-## ⚙️ Estudo e Desenvolvimento
+### Estudo Javascript
 
-Meu repositório totalmente focado em documentar desafios, desenvolvimentos e testes que fiz em minha jornada. Aqui encontrará tudo que define quem eu sou como programador. Até mesmo os erros, em alguns commits...
+Personal laboratory for APIs, algorithms, backend experiments and coding challenges.
 
-**Tecnologias**
+**Node.js • Express**
 
-- Node.js
-- Express
-- MySQL
-
-[![Repositório](https://img.shields.io/badge/Repositório-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/EstudoJavascript)
+[![Repository](https://img.shields.io/badge/Repository-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusDev09/EstudoJavascript)
 
 </td>
 
@@ -143,35 +170,24 @@ Meu repositório totalmente focado em documentar desafios, desenvolvimentos e te
 
 ---
 
-# 📖 Atualmente Explorando
+# `C:\MathDev> current`
 
-- 🏗️ Arquitetura de aplicações Backend com Node.js
-- 🌐 Desenvolvimento de APIs REST escaláveis
-- 🗄️ Modelagem de bancos de dados relacionais e NoSQL
-- 🔐 Sistemas de autenticação e controle de acesso
-- 🎯 React para construção de interfaces modernas
-- ☁️ Desenvolvimento de soluções na plataforma ServiceNow
-- 📚 Estruturas de dados, organização de código e boas práticas de desenvolvimento
-
-> "Mais importante do que escrever código é projetar soluções que façam sentido."
-
----
-
-# 🎯 Minha Visão
-
-Acredito que tecnologia deve existir para resolver problemas reais, simplificar processos e permitir que as pessoas utilizem melhor o recurso mais valioso que possuem: **o tempo**.
-
-Meu objetivo é me tornar um desenvolvedor capaz de projetar soluções robustas antes mesmo de começar a programá-las. Gosto de entender o problema por completo, pensar na arquitetura, analisar diferentes possibilidades e somente então transformar a ideia em código.
-
-Tenho interesse especial por sistemas voltados à **educação**, **segurança** e **automação**, áreas onde acredito que a tecnologia pode gerar impacto positivo.
-
-Busco evoluir continuamente através da prática, da experimentação e do aprendizado autodidata, sempre encarando cada projeto como uma oportunidade para aprender algo novo e entregar uma solução melhor do que a anterior.
+```powershell
+Learning...
+✔ Backend Architecture
+✔ REST APIs
+✔ Authentication & Authorization
+✔ MySQL & MongoDB
+✔ React
+✔ ServiceNow
+```
 
 ---
 
-# 📫 Contato
 
-<p align="left">
+# `C:\MathDev> contact`
+
+<p>
 
 <a href="https://www.linkedin.com/in/matheus-s-a77b033b0">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -185,10 +201,6 @@ Busco evoluir continuamente através da prática, da experimentação e do apren
 
 ---
 
-<div align="center">
+> *"Maybe I ain't the best, but surely, I'm the hardest trier. And that's enough to me."*
 
-> **"O que importa não é quanto tempo você tem, mas como escolhe utilizá-lo."**
 
-**Sempre aprendendo. Sempre evoluindo. Sempre construindo.**
-
-</div>
