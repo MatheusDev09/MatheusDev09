@@ -38,7 +38,8 @@ Status: Learning and Improving
 # `C:\MathDev> about`
 
 ```powershell
-> Straight from the low life, to the top floor. That's what I'm here for."
+"
+> Straight from the low life, to the top floor. That's what I'm here for.
 
 > Passionate about solving problems through software.
 
@@ -55,7 +56,8 @@ Status: Learning and Improving
 
 > Philosophy
 
-  "Think first, design well, code last."
+  Think first, design well, code last.
+"
 ```
 
 ---
